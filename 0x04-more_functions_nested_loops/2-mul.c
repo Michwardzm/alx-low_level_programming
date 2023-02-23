@@ -7,7 +7,7 @@
  * Return: The result of multiple of multiplication between x param and y param
  */
 
-int _mul(int x, int y)
+int mul(int x, int y)
 
 {
 	return (x * y);
